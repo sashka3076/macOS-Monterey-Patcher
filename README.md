@@ -9,7 +9,7 @@ Macbook Pro Early 2013 13 and 15 inch
 
 Macbook Pro Late 2013 13 and 15 inch
 
-Maacbook Pro Mid 2014 13 and 15 inch
+Macbook Pro Mid 2014 13 and 15 inch
 
 Macbook Air Mid 2013 11 and 13 inch
 
