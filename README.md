@@ -42,7 +42,7 @@ Mac Pro Mid 2012
 
 iMac Late 2012 21.5 and 27 inch
 
-(This means that this patcher has not been tested on these Macs do at your own risk)
+(The Unknown status means that this patcher has not been tested on these Macs do at your own risk)
 
 
 (Macs that are not supported by this Patcher)
