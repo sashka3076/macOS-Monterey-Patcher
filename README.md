@@ -101,6 +101,6 @@ I know there are lots of Macs that don't support this patcher but dont worry sup
 # How to install
 Before you attempt make a back up of your drive I am not responsible if you damage your machine. You first are going to make a bootable Usb with the macOS 12 beta 1. If you do not know how to do this google it or watch a youtube video.
 Next step Once you have your bootable usb you will type sudo then put the install-Monterey-Patch.sh into the terminal then place the usb with the macOS 12 into the terminal. Then hit enter it will ask you to type your password type it in.
-Once that is done you willput the Montereypatcher.sh into the terminal then followed by the usb with the macOS 12.
+Once that is done you will put the Montereypatcher.sh into the terminal then followed by the usb with the macOS 12.
 Then you can hold the option key and click the EFI your mac will shut down then turn back on then hold the option key now you can boot into the macOS 12 beta. then continue with the installer then it will boot into the macOS 12 beta once it is done.
-If your still stuck I will make a Youtube video the link will be down below.
+If you’re still stuck I will make a Youtube video the link will be down below.
