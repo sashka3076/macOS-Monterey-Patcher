@@ -98,3 +98,5 @@ iMac Mid 2011 21.5 and 27 inch
 
 I know there are lots of Macs that don't support this patcher but dont worry support will come soon.
 
+# How-to-install
+
