@@ -34,7 +34,7 @@ Macbook Pro Retina Mid 2012 15 inch
 
 Macbook Pro Retina Late 2012 13 inch
 
-Macbook Pro Mid 2012 11 and 13 inch
+Macbook Air Mid 2012 11 and 13 inch
 
 Mac Mini Late 2012
 
