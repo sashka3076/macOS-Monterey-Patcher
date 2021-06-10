@@ -2,7 +2,7 @@
 macOS Monterey Patcher is now available
 The macOS Monterey Patcher is availible for a few unsupported macs hope in the future that more macs will be compadible, for now the macs that are compadible will be listed below
 
-Macs Supported by this Patcher
+(Macs Supported by this Patcher)
 
 
 Macbook Pro Early 2013 13 and 15 inch
@@ -25,7 +25,7 @@ iMac Late 2014 5K 27 inch
 
 iMac Mid 2015 5K 27 inch
 
-Macs that are at the Unknown status
+(Macs that are at the Unknown status)
 
 
 Macbook Pro Mid 2012 13 and 15 inch
@@ -42,10 +42,10 @@ Mac Pro Mid 2012
 
 iMac Late 2012 21.5 and 27 inch
 
-This means that this patcher has not been tested on these Macs do at your own risk
+(This means that this patcher has not been tested on these Macs do at your own risk)
 
 
-Macs that are not supported by this Patcher
+(Macs that are not supported by this Patcher)
 
 
 Macbook Pro Early 2008 15 and 17 inch
