@@ -99,7 +99,7 @@ iMac Mid 2011 21.5 and 27 inch
 I know there are lots of Macs that don't support this patcher but dont worry support will come soon.
 
 # How to install
-Before you attempt make a back up of your drive i am not responsible if you damage your machine. You first are going to make a bootable Usb with the macOS 12 beta 1. If you do not know how to do this google it or watch a youtube video.
+Before you attempt make a back up of your drive I am not responsible if you damage your machine. You first are going to make a bootable Usb with the macOS 12 beta 1. If you do not know how to do this google it or watch a youtube video.
 Next step Once you have your bootable usb you will type sudo then put the install-Monterey-Patch.sh into the terminal then place the usb with the macOS 12 into the terminal. Then hit enter it will ask you to type your password type it in.
 Once that is done you willput the Montereypatcher.sh into the terminal then followed by the usb with the macOS 12.
 Then you can hold the option key and click the EFI your mac will shut down then turn back on then hold the option key now you can boot into the macOS 12 beta. then continue with the installer then it will boot into the macOS 12 beta once it is done.
