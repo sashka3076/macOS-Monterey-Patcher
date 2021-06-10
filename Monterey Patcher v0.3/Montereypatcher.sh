@@ -38,7 +38,7 @@ checkDirAccess() {
 
 echo $VERSION
 echo 'Thanks to jackluke, ASentientBot, highvoltage12v, testheit, and'
-echo 'ParrotGeek for their hard work to get Big Sur running on unsupported'
+echo 'ParrotGeek for their hard work to get Monterey running on unsupported'
 echo 'Macs! (See the README for more information.)'
 # Add a blank line of output to make things easier on the eyes.
 echo
@@ -93,19 +93,19 @@ else
     fi
 fi
 
-# Check if the payloads directory is inside the current directory. If not,
+# Check if the Montereyloads directory is inside the current directory. If not,
 # it's probably inside the same directory as this script, so find that
 # directory.
-if [ ! -d payloads ]
+if [ ! -d Montereyloads ]
 then
     BASEDIR="`echo $0|sed -E 's@/[^/]*$@@'`"
     [ -z "$BASEDIR" ] || cd "$BASEDIR"
 fi
 
 # Check again in case we changed directory after the first check
-if [ ! -d payloads ]
+if [ ! -d Montereyloads ]
 then
-    echo '"payloads" folder was not found.'
+    echo '"Montereyloads" folder was not found.'
     echo
     echo "Patcher cannot continue and will now exit."
     exit 1
