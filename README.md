@@ -56,7 +56,7 @@ Macbook Pro Early 2009 17 inch
 
 Macbook Pro Mid 2009 13,15 and 17 inch
 
-Macbook Pro mid 2010 13,15 and 17 inch
+Macbook Pro Mid 2010 13,15 and 17 inch
 
 Macbook Pro Early 2011 13,15 and 17 inch
 
